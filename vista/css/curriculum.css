@@ -1,0 +1,52 @@
+.cuerpo {
+    margin-left: 50px;
+    margin-right: 50px;
+    background: #EBEBA7;
+}
+
+#titulo {
+    text-align: center;
+    border-bottom: solid;
+    border-color: red;
+    color: blue;
+}
+
+.titulos {
+    color: blue;
+    border-bottom: solid;
+    border-color: gray;
+}
+
+#titulo1 {
+    width: 10%;
+}
+
+#titulo2 {
+    width: 16%;
+}
+
+#titulo3 {
+    width: 17%;
+}
+
+#titulo4 {
+    width: 20%;
+}
+
+#titulo5 {
+    width: 13%;
+}
+
+#titulo6 {
+    width: 16%;
+}
+
+#titulo7 {
+    width: 17%;
+}
+
+#imagen {
+    margin-left: 450px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
